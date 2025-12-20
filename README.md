@@ -74,11 +74,3 @@ This project is a simple **HTML5-based Event Registration and Promotional Portal
 
 ---
 
-## File Usage Notes
-⚠️ **Important:**  
-The media files (`.jpg`, `.mov`, `.mp3`) currently use **local system paths** (e.g., `C:\Users\...`).  
-For deployment or sharing:
-- Place media files in a project folder (e.g., `/assets/`)
-- Update paths to relative URLs:
-  ```html
-  <img src="assets/banner.jpg">
