@@ -14,24 +14,16 @@ Promotional media support (Image, Video, Audio)
 User-friendly registration form
 Client-side input validation
 File upload support
-**Modern aesthetic with a semi-transparent dark blue color scheme.**
-**Enhanced layout and alignment using CSS3 Flexbox and an external stylesheet.**
-
-Technologies Used
-HTML5
-**CSS3 (external stylesheet for styling, Flexbox for alignment, subtle shadows)**
-HTML5 Media Elements (Image, Video, Audio)
+**
 
 Page Structure
 Header – Event title and tagline
 Promotion Section
 Event banner image with alternate text
 Promotional video with controls
-Audio introduction (centered using CSS `margin: auto`)
+Audio introduction 
 Registration Section
 User input form with validation
-Footer – Copyright information
-**Main content is wrapped in a `.container` `div` and centered using CSS Flexbox on the `body` element.**
 
 Test Case Mapping
 TC01: Page Structure & Load
